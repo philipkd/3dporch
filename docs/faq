@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>FAQ (3D Porch for 3D Photos)</title>
+        <meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="DNTy39U6YYJJFurxB6EAVgLAMaNOjssa+3&#47;cq2jeJBc="/>
+	<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<link href="/stylesheets/blueprint/screen.css?1342598689" media="screen" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/blueprint/print.css?1330560833" media="print" rel="stylesheet" type="text/css" />
+<!--[if lt IE 8]><![endif]-->
+<link href="/stylesheets/custom.css?1382573042" media="screen" rel="stylesheet" type="text/css" />
+
+	<script src="/javascripts/jquery.js?1330560832" type="text/javascript"></script>
+<script src="/javascripts/rails.js?1330560832" type="text/javascript"></script>
+<script src="/javascripts/application.js?1379623150" type="text/javascript"></script>
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setDomainName', '.3dporch.com']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_setAccount', 'UA-18069474-7']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+  </head>
+  <body>
+	
+    <header>
+  <nav>
+    <ul>
+	  <li><a href="/">Home</a></li>
+      <!-- <li><a href="/tips"><span class="translation_missing" title="translation missing: en.Tips">Tips</span></a></li> -->
+      <li><a href="/faq">FAQ/Terms</a></li>
+      <li><a href="http://realorfake3d.com/"><img src="/images/reel.png"></a><a href="http://realorfake3d.com/" class="pink_link">RealOrFake3D Films</a></li>
+      <li class="obscure"><a href="/signin">Sign in</a></li>
+      <li class="obscure"><a href="/signup">Register</a></li>
+
+    </ul>
+  </nav>
+</header>
+
+	<div class="content_container">
+	    <div id="page">
+<h1>Frequently Asked Questions</h1>
+<ol>
+	<li><b>How do I contact the webmaster?</b><br/>
+		Best is to <a href="http://twitter.com/3dporch">follow me on twitter.</a>
+	<li><b>Where did some of the UI images come from?</b><br/>
+		The red-cyan glasses are from <a href="http://commons.wikimedia.org/wiki/File:3d_glasses_red_cyan.svg">Daniel Schwen</a>. The hearts are from <a href="http://www.fatcow.com/">FatCow Web Hosting</a>.
+	<li><b><a name="cameras"></a>What cameras are supported?</b><br/>
+		I've tested this on the Nintendo 3DS, Fujifilm FinePix Real 3D W3 and W1, Sony DSC-TX9, and the Panasonic Lumix GH2 so far. But it probably works with any .MPO and .JPS file created by any 3D camera.
+	<li><b>Anybody else you want to credit?</b><br/>
+		Thanks to Eric Pinzur for helping me figure out how to automatically align images.
+		</p>
+		
+</ol>
+
+<h1>Terms of Service</h1>
+<h2>Short Version</h2>
+<ol>
+	<li><b>What you cannot upload</b><br/>
+		Do not upload copyrighted material, spam, gore, or harassment images. Doing so will cause you to be banned. We will also report you to the authorities if necessary.
+	<li><b>Privacy</b><br/>
+		There are no passwords or anything on the images, so don't upload anything that you wouldn't want the rest of the world to see.
+	<li><b>Hotlinking</b><br/>
+		To keep server costs down, I've disabled hotlinking. However, if you figure out a way to bypass it, that's fine.
+	<li><b>File ownership</b><br/>
+		All files are copyrighted © to their respective owners. You upload it, you're responsible for it. However, images shared here may appear in media outlets under fair use.
+	<li><b>Trademarks and Copyrights</b><br/>
+		"3D Porch" is a registered trademark of Nuclear Elements, Inc. Any unauthorized use of this name is a violation of state, federal and international trademark laws. All 3D Porch art and text on this website are copyrighted.
+</ol>
+<h2>Full Terms of Service</h2>
+<ol>
+	<li><b>Definitions</b><br/>
+		'File' refers to any document that can possibly be uploaded to 3D Porch. 'User' refers to the individual who uploads or accesses files from 3D Porch. 'URL' refers to the location of any file located on 3D Porch's servers.
+	<li><b>Terms of Service</b><br/>
+	The terms of service (ToS) govern your use of this site, which is provided by 3D Porch. By accessing this site, you are indicating your acknowledgment and acceptance of the terms of service. The terms of service are subject to change by 3D Porch at any time in its discretion. Your use of this site after such changes are implemented constitutes your acknowledgment and acceptance of the changes. Please consult the terms of service regularly.
+	<li><b>Files Policy</b><br/>
+		3D Porch reserves the right to remove or replace any uploaded files, and assumes no liability for lost URLs
+		The following types of files constitute "abuse" and may not be uploaded under any circumstances, when using 3D Porch:<ul><li>Files that violate any law or may be considered to violate any law.
+		<li>Files that infringe on the copyrights of any entity excluding the user.
+		<li>Files that advertise any commercial endeavor (e.g., offering for sale products or services) or otherwise engages in any commercial activity (e.g., conducting raffles or contests, displaying sponsorship banners, and/or soliciting goods or services).
+		<li>Gore or "shock" images that are that are intended to be offensive, disgusting and/or disturbing to viewers.
+		<li>Hotlinking to file-sharing, torrent, and pornographic sites is prohibited.
+		<li>Uploading abusive files may result in the immediate termination of the user's ability to use 3D Porch or any of its provided services. The 3D Porch website may not load, all 3D Porch-hosted files may not load, and all files related to the abusive files will be subject to deletion. Circumventing 3D Porch's ability to enforce the 3D Porch Terms of Service will result in prosecution.
+		<li>To report any type of abuse, <a href="/faq">send email</a>. It may take up to 7 days to process deletion requests.
+		</ul>
+	<li><b>Privacy</b><br/>
+		All personal information provided by the user is strictly confidential. 3D Porch reserves the right to distribute aggregated demographic information provided by the user, but 3D Porch will never release any personal information about the user without permission. However, 3D Porch reserves the right to release user information if user has violated the 3D Porch Terms of Service, if the information is subpoenaed, or if the user has committed unlawful acts.<br/><br/>
+		Notwithstanding anything else herein, we may partner with third party advertisers who may (themselves or through their partners) place or recognize a unique cookie on your browser. These cookies enable more customized ads, content or services to be provided to you. To trigger these cookies, we may pass an encrypted or “hashed” (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, these cookies. To opt-out of these cookies, please go to <a href="http://www.privacychoice.org/choose">http://www.privacychoice.org/choose</a>.		
+	<li><b>Legal Policy</b><br/>
+		"3D Porch" is a registered trademark of Nuclear Elements, Inc. Any unauthorized use of this name is a violation of state, federal and international trademark laws. All 3D Porch art and text on this website are copyrighted.<br/><br/>All files are copyrighted © to their respective owners. 3D Porch directs full legal responsibility of files to their respective users.<br/><br/>3D Porch is not responsible for the content of any uploaded files, nor is it in affiliation with any entities that may be represented in the uploaded files.
+	<li><b>Limitation of Liability</b><br/>
+		User's use of 3D Porch's services is entirely at his or hers own risk. If you are dissatisfied with any aspect of 3D Porch's Service or with these terms & conditions, or any other rules or policies, your sole remedy is to discontinue the use of the Service. 3D Porch's services are provided on an "as is" basis without warranties of any kind, either expressed or implied, constructive, or statutory, including, without limitation, any implied warranties of merchantability, non-infringement or fitness for a particular purpose.<br/><br/>
+		3D Porch makes no guarantee of availability of service and reserves the right to change, withdraw, suspend, or discontinue any functionality or feature of 3D Porch's services. In no event shall 3D Porch be liable for any damages whatsoever. This includes direct, indirect, incidental, special, consequential, or punitive damages arising out of the use of or inability to use 3D Porch's services or any content thereon
+	<li><b>Notification of Claims of Infringement</b><br/>
+		If you believe that your work has been copied in a way that constitutes copyright infringement, or that your intellectual property rights have been otherwise violated, please provide the following information to our agent:<ul><li>Identification of the material that you claim is infringing, with enough detail that we can locate it on the site.
+			<li>A statement that you have a good faith belief that the material’s use is not authorized by the copyright owner, its agent, or the law.
+			<li>A statement declaring under penalty of perjury that (a) the above information in your notice is accurate, and (b) that you are the owner of the copyright interest involved or that you are authorized to act on behalf of that owner.
+			<li>Your address, telephone number, and email address
+			<li>Your physical or electronic signature.
+			</ul>Our agent for notice of claims of copyright or other intellectual property infringement can be reached on Twitter.	
+	<li><b>Indemnity</b><br/>
+		User agrees to indemnify and hold 3D Porch harmless from any loss, liability, claims, damages and expenses, including attorneys fees, arising from or related to the content, use, or deletion of User's Files or use of any other feature or service. This expressly includes:<ul><li>User's responsibility for any and all liability arising from the violation or infringement of proprietary rights or copyrights.<li>Any defamatory or unlawful material contained within User's Files.</ul>
+			
+	<li><b>Waiver</b><br/>
+		By accepting these terms, you waive and hold harmless company from any claims resulting from any action taken by 3D Porch during or as a result of its investigations and/or from any actions taken as a consequence of investigations by either 3D Porch or law enforcement authorities.
+
+	<li><b>Maintenance</b><br/>
+		3D Porch may perform maintenance services at anytime. User acknowledges that such maintenance may require downtime, and images hosted on 3D Porch may not load during this time.
+
+	<li><b>Miscellaneous</b><br/>
+		
+These Terms of Use will be governed and interpreted pursuant to the laws of Travis County, Texas United States of America, notwithstanding any principles of conflicts of law. You specifically consent to personal jurisdiction in Travis County, TX in connection with any dispute between you and Company arising out of these Terms of Use or pertaining to the subject matter hereof. The parties to these Terms of Use each agree that the exclusive venue for any dispute between the parties arising out of these Terms of Use or pertaining to the subject matter of these Terms of Use will be in the state and federal courts in Travis County, TX. If any part of these Terms of Use is unlawful, void or unenforceable, that part will be deemed severable and will not affect the validity and enforceability of any remaining provisions. These Terms of Use constitute the entire agreement among the parties relating to this subject matter. Notwithstanding the foregoing, any additional terms and conditions on this site will govern the items to which they pertain. 3D Porch may revise these Terms of Use at any time by updating this posting.		
+		
+			
+</ol>
+
+
+</div>
+	  <footer>
+<!-- 
+<table><tr><td>
+			<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+			<input type="hidden" name="cmd" value="_s-xclick">
+			<input type="hidden" name="hosted_button_id" value="GNAHUC3TM6M3W">
+			<input type="image" src="https://www.paypalobjects.com/WEBSCR-640-20110306-1/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+			<img alt="" border="0" src="https://www.paypalobjects.com/WEBSCR-640-20110306-1/en_US/i/scr/pixel.gif" width="1" height="1">
+			</form>
+</td><td valign=top><p style="font-size: 15pt">3D Porch is run on shoe-string budget, please donate whatever you can to keep it afloat.</p></td></tr></table>
+ -->
+</footer>
+
+	</div>
+  </body>
+</html>

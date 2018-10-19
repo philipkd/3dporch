@@ -1,0 +1,22 @@
+.image_bulletin img {
+	height: 164px;	
+}
+
+#non3DS {
+	width: 730px;
+	margin-bottom: 20px;
+	font-size: 200%;
+}
+
+#large_share {
+	font-size: 400%;
+}
+
+.large_url {
+	letter-spacing: 5px;
+	color: #F0FF56;
+}
+
+#upload_instructions {
+	font-size: 120%;
+}

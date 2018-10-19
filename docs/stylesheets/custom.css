@@ -1,0 +1,603 @@
+.content_container {
+  padding: 0 20px;
+}
+
+
+body {
+  background: #111;
+  color: #ddd;
+}
+
+header {
+  background-color: none;
+  padding-top: 20px;
+}
+
+section {
+  margin-top: 1em;
+  font-size: 120%;
+  padding: 20px;
+  background: #fff;
+}
+
+h1 {
+  font-size: 300%;
+  color: white;
+}
+
+h2 {
+  font-size: 200%;
+  color: white;
+}
+
+h3 {
+  font-size: 150%;
+  color: white;
+}
+
+/* Links */
+
+a {
+  color: #09c;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Navigation */
+
+nav {
+  background-color: #333;
+  padding: 0;
+  white-space: nowrap;
+  font-size: 130%;
+}
+
+header {
+	padding: 0 0 20px;
+}
+
+nav ul {
+  margin: 0;
+  padding: 5px 0px 5px 20px;
+}
+
+nav ul li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 0.2em 10px 0 0;
+}
+
+nav ul li a {
+  padding: 0 5px;
+  font-weight: bold;
+  color: #71c3bf;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
+
+nav ul li.obscure a {
+	color: #333;
+}
+
+a.gold_link {
+  color: gold;
+}
+
+a.pink_link {
+  color: #C55ACC;
+}
+
+footer {
+  text-align: center;
+  margin-top: 10px;
+  width: 710px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer nav {
+  float: none;
+  background-color: #222;
+}
+
+
+/* Round corners */
+
+.round {
+  -moz-border-radius:    10px;
+  -webkit-border-radius: 10px;
+  border-radius:         10px;
+}
+
+/* Control Panel */
+
+#control_panel {
+	position: absolute;
+	float: right;
+	right: 10px;
+	top: 60px;
+	width: 500px;
+	text-align: right;
+}
+
+
+#control_panel li {
+	font-size: 150%;
+}
+
+#control_panel li h1 {
+	font-size: 220%;
+}
+
+#control_panel ul {
+	list-style: none;
+}
+#control_panel ul li {
+	margin-bottom: 10px;
+}
+
+#control_panel ul.main_tools {
+  margin-bottom: 0;
+}
+
+#control_panel ul.sub_tools {
+  margin-top: 0;
+  font-size: 8px;
+}
+
+
+/* User show page */
+
+.pagination {
+	margin: 10px 0;
+	font-size: 200%;
+}
+
+.profile img.gravatar {
+  border: 1px solid #999;
+  margin-bottom: -15px;
+}
+
+#image_list {
+	margin: 15px 0;
+}
+
+#image_list li {
+	list-style: none;
+	display: inline;
+}
+
+
+/* */
+
+div.field, div.actions {
+  margin-bottom: 10px;
+}
+
+.field_with_errors {
+  margin-top: 10px;
+  padding: 2px;
+  background-color: red;
+  display: table;
+}
+
+.field_with_errors label {
+  color: #fff;
+}
+
+#error_explanation {
+  width: 400px;
+  border: 2px solid red;
+  padding: 7px;
+  padding-bottom: 12px;
+  margin-bottom: 20px;
+  background-color: #f0f0f0;
+}
+
+#error_explanation h2 {
+  text-align: left;
+  font-weight: bold;
+  padding: 5px 5px 5px 15px;
+  font-size: 12px;
+  margin: -7px;
+  background-color: #c00;
+  color: #fff;
+}
+
+#error_explanation p {
+  color: #333;
+  margin-bottom: 0;
+  padding: 5px;
+}
+
+#error_explanation ul li {
+  font-size: 12px;
+  list-style: square;
+  color: #333;
+}
+
+td.gold_users {
+  vertical-align: top;
+  font-size: 20px;
+  padding-right: 30px;
+  padding-top: 20px;
+}
+
+td.gold_photos {
+  vertical-align: top;
+}
+
+ul.users {
+	font-size: 30px;
+	padding-left: 0;
+	width: 300px;
+}
+
+.users li {
+	list-style: none;
+}
+
+/* Image Pages */
+
+.fit_to_screen {
+	max-width: 100%;
+	/* Resize the image for IE6 */
+	width: expression(this.width > 100% ? 100%: true);
+}
+
+.fit_to_half_screen {
+	max-width: 50%;
+	/* Resize the image for IE6 */
+	width: expression(this.width > 50% ? 50%: true);
+}
+
+.full_screen {
+}
+
+#format_choices {
+	margin: 20px 0px;
+}
+
+#format_choices img {
+	margin-right: 10px;
+}
+
+img.highlighted_format {
+	border: 2px solid #255363;
+}
+
+#image_status {
+	margin: 20px 0;
+	font-size: 150%;
+}
+
+#format_beta_status {
+	margin-bottom: 10px;
+	font-size: 120%;
+	font-style: italic;
+}
+
+#show_image {
+	float: left;
+	margin-bottom: 10px;
+}
+
+.image_title {
+  font-size: 250%;
+  margin-bottom: 10px;
+  padding: 0;
+  width: 600px;
+}
+
+.image_caption {
+  font-size: 150%;
+  width: 600px;
+}
+
+.image_camera {
+  font-size: 140%;
+  color: #bbb;
+  margin-bottom: .5em;
+}
+
+/* External Buttons */
+
+#external_buttons {
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+#external_buttons img {
+  vertical-align: text-top;
+}
+
+#share_buttons {
+	width: 270px;
+	padding-left: 0;
+}
+
+#views_and_faves {
+	text-align: left;
+	font-size: 200%;
+	padding-bottom: 10px;
+	color: #D4D4D4;
+}
+#views_and_faves a {
+  color: #D4D4D4
+}
+
+#views_and_faves.faved a {
+  color: #0E0E0E;
+}
+
+#views_and_faves a:hover {
+  color: #E9422B
+}
+
+
+.share_button {
+	width: 65px;
+	height: 70px;
+	vertical-align: middle;
+	float: left;
+}
+
+/* Next Images */
+
+#next_img_tag {
+	margin-top: 20px;
+}
+
+/* Bulletins */
+
+.bulletin {
+	margin: 20px;
+	padding: 10px;
+	color: black;
+}
+
+.bulletin h1 {
+	font-size: 1em;
+	margin-bottom: 15px;
+	line-height: 23px;
+}
+
+.bulletin h1 a {
+	color: black;
+	text-decoration: underline;
+}
+
+.bulletin table, .bulletin tr, .bulletin td {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+.bulletin td h1 {
+	margin-bottom: 5px;
+}
+
+
+.image_bulletin a {
+	margin: 0;
+	padding: 0;
+}
+
+.image_bulletin img {
+	border: 12px solid #282828;		
+	margin-right: 12px;
+	margin-top: 8px;
+	width: 273px;
+	height: 205px;	
+}
+
+.bulletin_header {
+	background-color: #282828;
+	font-size: 250%;
+	padding: 5px 20px;
+	margin-bottom: 10px;	
+}
+
+.bulletin_header a {
+	color: #BBB;
+}
+
+.featured_header {
+	margin-top: 0;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#home_container {
+	text-align: center;
+}
+
+#home_box {
+	margin: auto;
+	width: 900px;
+}
+
+
+/* Uploading Images */
+
+
+p.upload_instructions {
+	margin-bottom: 10px;
+}
+
+#image_upload_form a {
+	color: black;
+	text-decoration: underline;
+}
+
+p.upload_footnote {
+	margin-top: 20px;
+	margin-right: 10px;
+	font-size: 140%;
+}
+
+#image_upload_form {
+	width: 400px;
+	font-size: 150%;
+	margin: 0 auto 15px;	
+	padding: 20px;
+	background-color: #999;
+	color: black;
+	text-align: center;
+}
+
+/* More upload options */
+
+#more_upload_options {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#more_upload_options_instructions {
+	display: none;
+}
+
+#batch_instructions {
+	margin-top: 5px;
+}
+
+#nsfw_tip {
+	display: none;
+	margin: 5px 0;
+	font-size: 80%;
+}
+
+a#nsfw_tip_btn {
+	color: #A2103B;
+	cursor: pointer;
+}
+
+/* Editing Images */
+
+#delete_image_thumb {
+	margin-top: 20px;
+}
+
+#delete_image_button a {
+	color: #C0501D;
+	font-size: 1.4em;
+}
+
+#delete_image_button {
+  margin: 50px 0;
+}
+
+/* Static Pages */
+
+#page ol {
+	font-size: 120%;
+}
+#page li {
+	margin-bottom: 20px;
+}
+
+#page li:first-line {
+	font-size: 115%;
+}
+
+#page ol ul li {
+	margin-bottom: auto;
+}
+
+#page ol ul li:first-line {
+	font-size: 100%;
+}
+
+#page {
+	margin-left: auto;
+	margin-right: auto;
+	width: 700px;
+}
+
+#page_tips {
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+}
+
+#page_tips p, #page_tips li {
+  font-size: 1.5em;
+  line-height: 1.5em;
+  margin-bottom: 1em;
+}
+
+#page_tips img {
+  margin-bottom: 10px;
+}
+
+#page_tips h3 {
+  font-style: italic;
+  font-size: 1.3em;
+}
+
+
+/* Ads */
+
+#camera_ad {
+	background-color: #333;
+	width: 400px;
+	height: 75px;
+	margin: 10px 0;
+}
+#camera_ad a {
+	color: #42ABD0;
+}
+
+/* Edit Images */
+
+.edit_image {
+  font-size: 150%;
+}
+
+.edit_image textarea, .edit_image input {
+  font-size: 100%;
+}
+
+/* Flash */
+
+.flash {
+  position: absolute;
+  top: 80px;
+  left: 400px;
+  font-size: 120%;
+}
+
+.flash a {
+  text-decoration: underline;
+}
+
+/* 3D Cameras */
+
+#camera_reviews td {
+	vertical-align: top;
+	margin-top: 20px;
+}
+
+#camera_reviews img {
+	border: 12px solid #282828;		
+  -moz-border-radius:    10px;
+  -webkit-border-radius: 10px;
+  border-radius:         10px;
+	width: 273px;
+	height: 205px;	
+}
+
+#camera_reviews p, #camera_reviews li {
+	font-size: 17px;
+}
+
+
+#camera_reviews ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}

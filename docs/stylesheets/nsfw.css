@@ -1,0 +1,32 @@
+/* NSFW Overrides */
+
+nav ul li a {
+	color: #C43966;
+}
+
+#next_imgs li.next img {
+	border-color: #C43966;
+}
+
+a {
+	color: #A2103B;
+}
+
+.image_bulletin img, img.highlighted_format, #next_imgs li.current img {
+	border-color: #873852;	
+}
+
+#age_check {
+	font-size: 250%;
+	width: 700px;
+	margin: auto;
+}
+
+#age_check a {
+	display: block;
+	background-color: #732740;
+	padding: 7px 15px;
+	margin: 25px 0;
+	color: white;
+}
+

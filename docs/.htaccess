@@ -1,0 +1,6 @@
+<FilesMatch "[^\.]$">
+ForceType text/html
+</FilesMatch>
+<FilesMatch ".css$">
+ForceType text/css
+</FilesMatch>
